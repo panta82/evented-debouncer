@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "description": "Simple debouncer",
   "main": "lib/debouncer.js",
-  "license": "MIT"
+  "license": "MIT",
+	"scripts": {
+		"test": "./node_modules/mocha/bin/mocha ./spec"
+	},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
 }

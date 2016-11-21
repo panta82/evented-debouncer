@@ -6,6 +6,8 @@ Reduce the rate of events per time unit. Similar to [lodash's debounce](https://
 npm install --save evented-debouncer 
 ```
 
+Very simple class, no dependencies.
+
 ### Example
 
 ##### Before:
