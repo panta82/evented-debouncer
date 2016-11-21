@@ -4,11 +4,13 @@
   "description": "Simple debouncer",
   "main": "lib/debouncer.js",
   "license": "MIT",
-	"scripts": {
-		"test": "./node_modules/mocha/bin/mocha ./spec"
-	},
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./spec"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.1.2"
-  }
+  },
+  "repository": "git@github.com:panta82/evented-debouncer.git",
+  "author": "Ivan Pantic <ivanpantic82@gmail.com>"
 }
