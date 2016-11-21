@@ -1,7 +1,7 @@
 {
-  "name": "debouncer",
+  "name": "evented-debouncer",
   "version": "1.0.0",
-  "description": "Simple debouncer",
+  "description": "Simple evented debouncer. Emit events at reduced rate, limited per time unit.",
   "main": "lib/debouncer.js",
   "license": "MIT",
   "scripts": {
@@ -11,6 +11,12 @@
     "chai": "^3.5.0",
     "mocha": "^3.1.2"
   },
+	"keywords": [
+		"debounce",
+		"debouncer",
+		"events",
+		"rate-limit"
+	],
   "repository": "git@github.com:panta82/evented-debouncer.git",
   "author": "Ivan Pantic <ivanpantic82@gmail.com>"
 }
