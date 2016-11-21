@@ -1,0 +1,7 @@
+{
+  "name": "debouncer",
+  "version": "1.0.0",
+  "description": "Simple debouncer",
+  "main": "lib/debouncer.js",
+  "license": "MIT"
+}
